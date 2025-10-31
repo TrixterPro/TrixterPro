@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TrixterPro
 - 👀 I’m interested in Python and discord bots.
-- 🌱 I’m currently learning Python.
 - 📫 Contact me on discord: codewithtrix.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Elephants can't jump
